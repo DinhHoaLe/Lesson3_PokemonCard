@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Lesson3_PokemonCard/static/css/main.8186e024.css",
+    "main.js": "/Lesson3_PokemonCard/static/js/main.c511b437.js",
+    "static/js/453.2f7d0be2.chunk.js": "/Lesson3_PokemonCard/static/js/453.2f7d0be2.chunk.js",
+    "static/media/012.png": "/Lesson3_PokemonCard/static/media/012.4f9a7938330a61a6e41c.png",
+    "static/media/009.png": "/Lesson3_PokemonCard/static/media/009.e9cb2193e0ec40fd49c7.png",
+    "static/media/003.png": "/Lesson3_PokemonCard/static/media/003.3cca264ff424fbade839.png",
+    "static/media/006.png": "/Lesson3_PokemonCard/static/media/006.713687c557176f68aab1.png",
+    "static/media/002.png": "/Lesson3_PokemonCard/static/media/002.92859d64bbd3bac1aa14.png",
+    "static/media/001.png": "/Lesson3_PokemonCard/static/media/001.a3194a788e69edd9f044.png",
+    "static/media/007.png": "/Lesson3_PokemonCard/static/media/007.3df3595a68504b231cd0.png",
+    "static/media/008.png": "/Lesson3_PokemonCard/static/media/008.255e7e537d9932669a80.png",
+    "static/media/004.png": "/Lesson3_PokemonCard/static/media/004.0fb9c092c0223caa8528.png",
+    "static/media/011.png": "/Lesson3_PokemonCard/static/media/011.330c873c7bb1ac54cc34.png",
+    "static/media/010.png": "/Lesson3_PokemonCard/static/media/010.93f07c0b56e4b7a373f9.png",
+    "static/media/005.png": "/Lesson3_PokemonCard/static/media/005.91044bd5dc4948e2c0ab.png",
+    "index.html": "/Lesson3_PokemonCard/index.html",
+    "main.8186e024.css.map": "/Lesson3_PokemonCard/static/css/main.8186e024.css.map",
+    "main.c511b437.js.map": "/Lesson3_PokemonCard/static/js/main.c511b437.js.map",
+    "453.2f7d0be2.chunk.js.map": "/Lesson3_PokemonCard/static/js/453.2f7d0be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8186e024.css",
+    "static/js/main.c511b437.js"
+  ]
+}
